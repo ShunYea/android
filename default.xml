@@ -122,7 +122,7 @@
   <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" />
   <project path="device/semc/zeusc" name="CyanogenMod/android_device_semc_zeusc" />
   <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
-  <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" />
+  <project path="device/zte/blade" name="ShunYea/android_device_zte_n880s" />
   <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
