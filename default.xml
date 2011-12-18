@@ -311,6 +311,7 @@
   
   <project path="frameworks/base/data/fonts" name="ShunYea/android_frameworks_base_data_fonts" />
   <project path="device/common/gps" name="ShunYea/android_device_common_gps" />
+  <project path="vendor/cyanogen/products" name="ShunYea/android_vendor_cyanogen_products" />
   <project path="addons" name="ShunYea/android_addons" />
 
   <project path="android" name="ShunYea/android" />
