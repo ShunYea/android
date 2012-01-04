@@ -58,28 +58,6 @@
   <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" />
   <project path="device/htc/vivo" name="CyanogenMod/android_device_htc_vivo" />
   <project path="device/htc/vivow" name="CyanogenMod/android_device_htc_vivow" />
-  <project path="device/lge/p970" name="CyanogenMod/android_device_lge_p970" />
-  <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" />
-  <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" />
-  <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" />
-  <project path="device/lge/thunderc" name="CyanogenMod/android_device_lge_thunderc" />
-  <project path="device/lge/thunderg" name="CyanogenMod/android_device_lge_thunderg" />
-  <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" />
-  <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" />
-  <project path="device/malata/smb_a1004" name="CyanogenMod/android_device_malata_smb_a1004" />
-  <project path="device/malata/smb_a1011" name="CyanogenMod/android_device_malata_smb_a1011" />
-  <project path="device/malata/smb_b9701" name="CyanogenMod/android_device_malata_smb_b9701" />
-  <project path="device/motorola/common" name="CyanogenMod/android_device_motorola_common" />
-  <project path="device/motorola/droid2" name="CyanogenMod/android_device_motorola_droid2" />
-  <project path="device/motorola/droid2we" name="CyanogenMod/android_device_motorola_droid2we" />
-  <project path="device/motorola/jordan" name="CyanogenMod/android_device_motorola_jordan" />
-  <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" />
-  <project path="device/motorola/motus" name="CyanogenMod/android_device_motorola_motus" />
-  <project path="device/motorola/olympus" name="CyanogenMod/android_device_motorola_olympus" />
-  <project path="device/motorola/shadow" name="CyanogenMod/android_device_motorola_shadow" />
-  <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" />
-  <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" />
-  <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/zte/blade" name="ShunYea/android_device_zte_n880s" />
   <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" />
