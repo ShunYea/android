@@ -20,44 +20,10 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
-  <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/bn/encore" name="CyanogenMod/android_device_bn_encore" />
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" />
-  <project path="device/dell/streak7" name="CyanogenMod/android_device_dell_streak7" />
-  <project path="device/elocity/a7" name="CyanogenMod/android_device_elocity_a7" />
-  <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" />
-  <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" />
   <project path="device/huawei/c8500" name="ShunYea/android_device_huawei_c8500" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
-  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
-  <project path="device/htc/7x30-recovery" name="CyanogenMod/android_device_htc_7x30-recovery" />
-  <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
-  <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" />
-  <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" />
-  <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" />
-  <project path="device/htc/click" name="CyanogenMod/android_device_htc_click" />
-  <project path="device/htc/desirec" name="CyanogenMod/android_device_htc_desirec" />
-  <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" />
-  <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" />
-  <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" />
-  <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" />
-  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" />
-  <project path="device/htc/heroc" name="CyanogenMod/android_device_htc_heroc" />
-  <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" />
-  <project path="device/htc/leo" name="CyanogenMod/android_device_htc_leo" />
-  <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" />
-  <project path="device/htc/mecha" name="CyanogenMod/android_device_htc_mecha" />
-  <project path="device/htc/msm7x30-common" name="CyanogenMod/android_device_htc_msm7x30-common" />
-  <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" />
-  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" />
-  <project path="device/htc/saga" name="CyanogenMod/android_device_htc_saga" />
-  <project path="device/htc/speedy" name="CyanogenMod/android_device_htc_speedy" />
-  <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" />
-  <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" />
-  <project path="device/htc/vivo" name="CyanogenMod/android_device_htc_vivo" />
-  <project path="device/htc/vivow" name="CyanogenMod/android_device_htc_vivow" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/zte/blade" name="ShunYea/android_device_zte_n880s" />
   <project path="device/zte/v9" name="CyanogenMod/android_device_zte_v9" />
